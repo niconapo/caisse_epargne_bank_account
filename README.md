@@ -1,5 +1,4 @@
 # caisse_epargne_bank_account
-Récupérer le solde de son compte PRO
 
 
 Permet de récupérer le solde de son compte Caisse d'Epargne PRO
